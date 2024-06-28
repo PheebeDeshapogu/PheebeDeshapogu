@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **PheebeDeshapogu/PheebeDeshapogu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 I am Pheebe Deshapogu.
 I am starting National Live Remote Program from July 8th.
