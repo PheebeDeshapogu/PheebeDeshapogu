@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 I am Pheebe Deshapogu.
-I am starting National Live Remote Program from July 8th.
-I am completing Prework.
+I have completed Java BootCamp - Tech Elevator - Remote Program.
+I am upskilling myself with all the topics that I have learnt in the BootCamp, working on small projects and applying for the positions as Junior Developer and Software Quality Assurance Engineer.
